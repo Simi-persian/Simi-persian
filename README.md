@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Contact no:7304602954, LinkedIn: Simran Samantra, Mail: simransamantra@gmail.com
 - 😄 Pronouns: ...She/her
-- ⚡ Fun fact: ...I am first year Computer Science student...I had created a portfolio website also 😎
+- ⚡ Fun fact: ...I am first year Computer Science student...
 
 <!---
 Simi-persian/Simi-persian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
